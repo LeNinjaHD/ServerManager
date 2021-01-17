@@ -1,0 +1,6 @@
+name: Server Manager
+version: ${project.version}
+main: com.leprofi.servermanager.Main
+api-version: 1.16
+authors: [ LeNinjaHD, Astrago ]
+description: The Plugin for ServerManager
