@@ -9,10 +9,10 @@ Easily Create, Manage and Control Spigot and Paper Server!
 Download the latest Release here: [Download](https://github.com/LeNinjaHD/ServerManager/releases)
 Extract it to an Folder.
 
-**Linux**
+**Linux**\n
 First enter `chmod 777 start.sh` in the Directory.
 Then run  `./start.sh`.
 
-**Windows**
+**Windows**\n
 Press the Windows Key and Enter `cmd` and press Enter. 
 Navigate to the Installtion Directory and run `py servermanager.py`
