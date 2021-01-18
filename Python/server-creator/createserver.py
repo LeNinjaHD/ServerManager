@@ -22,7 +22,7 @@ line(2)
 name = input("How should the Server be called? \n> ")
 type = input("What Servertype should the Server be? (Paper) \n> ")
 if(type == "Paper"):
-    version = input("Which Version should the Spigot Server be? (1.16.5, 1.15.2, 1.8.8) \n> ")
+    version = input("Which Version should the Spigot Server be? (1.16.5, 1.15.2, 1.14.4, 1.13.2, 1.12.2, 1.11.2, 1.10.2, 1.9.4, 1.8.8) \n> ")
     if(version == "1.16.5"):
         port = input("Which Port should the Server be? \n> ")
         line(1)
