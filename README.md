@@ -7,7 +7,7 @@ Easily Create, Manage and Control Spigot and Paper Server!
 
 # Installation
 Download the latest Release here: [Download](https://github.com/LeNinjaHD/ServerManager/releases)
-Extract it to an Folder.
+Extract it to an Folder. 
 **Linux**
 First enter `chmod 777 start.sh` in the Directory.
 Run then  `./start.sh`.
