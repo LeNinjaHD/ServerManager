@@ -1,4 +1,5 @@
 # ServerManager
+Easily Create, Manage and Control Spigot and Paper Server! 
 
 # Requirements
 
