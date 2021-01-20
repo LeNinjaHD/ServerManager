@@ -11,8 +11,7 @@ Extract it to an Folder.
 
 **Linux**
 
-First enter `chmod 777 start.sh` in the Directory.
-Then run  `./start.sh`.
+Just run `python3 linux_installer.py` in the Directory.
 
 **Windows**
 
