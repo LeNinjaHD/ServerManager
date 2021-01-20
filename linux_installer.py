@@ -8,4 +8,4 @@ path = str(pathlib.Path(__file__).parent.absolute())
 with open("/usr/bin/servermanager", "w") as f:
     f.write("#!/bin/bash\n")
     f.write("python3 " + path + "/servermanager.py")
-print("Installation Complete.")
+print("Installation Complete.") 
