@@ -25,12 +25,18 @@ if sys.version_info.major != 3:
 print("Select Something:")
 print("[1] Create New Server")
 print("[2] Create Server from Template")
+print("[3] Manage Server")
+print("[4] Create Server Backup")
 print("[0] Exit")
 action = input("Select An Action: ")
 if(action == "1"):
     importlib.import_module("module_servercreator")
 elif(action == "2"):
     importlib.import_module("module_servertemplate")
+elif(action == "3"):
+    importlib.import_module("module_manage")
+elif(action == "4"):
+    importlib.import_module("module_backup")
 elif(action == "0"):
     quit()
 else:
